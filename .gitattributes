@@ -1,0 +1,4 @@
+*.data.unityweb filter=lfs diff=lfs merge=lfs -text
+*.framework.js.unityweb filter=lfs diff=lfs merge=lfs -text
+*.loader.js filter=lfs diff=lfs merge=lfs -text
+*.wasm.unityweb filter=lfs diff=lfs merge=lfs -text

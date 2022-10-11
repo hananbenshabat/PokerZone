@@ -1,0 +1,41 @@
+{
+    "name": "pokerzone",
+    "version": "1.0.0",
+    "description": "Pokerzone Backend and Frontend",
+    "main": "server.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "server": "nodemon server.js",
+        "client": "npm start --prefix client",
+        "dev": "concurrently \"npm run server\" \"npm run client\"",
+        "debugDev": "concurrently \"npm run server\" \"node --debug-brk npm run client\"",
+        "format": "prettier --write 'projectA/*.js' 'projectB/*.js'"
+    },
+    "author": "Hanan Ben Shabat",
+    "license": "ISC",
+    "dependencies": {
+        "@azure/cosmos": "^3.17.1",
+        "@hapi/joi": "^16.1.8",
+        "bcryptjs": "^2.4.3",
+        "bootstrap": "^5.2.1",
+        "concurrently": "^7.4.0",
+        "connect-mongodb-session": "^3.1.1",
+        "cors": "^2.8.5",
+        "dotenv": "^16.0.2",
+        "express": "^4.18.1",
+        "express-rate-limit": "^6.6.0",
+        "express-session": "^1.17.3",
+        "generate-schema": "^2.6.0",
+        "helmet": "^6.0.0",
+        "joi": "^17.6.1",
+        "mime-types": "^2.1.35",
+        "mongoose": "^6.6.1",
+        "morgan": "^1.10.0",
+        "nodemon": "^2.0.20",
+        "react-router-dom": "^6.4.1",
+        "session-file-store": "^1.5.0"
+    },
+    "overrides": {
+        "autoprefixer": "10.4.5"
+    }
+}

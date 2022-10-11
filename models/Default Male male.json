@@ -1,0 +1,143 @@
+{
+    "packedRecipeType": "DynamicCharacterAvatar",
+    "name": "UMADynamicCharacterAvatar",
+    "race": "HumanMale",
+    "dna": [{
+        "dnaType": "DynamicUMADna",
+        "dnaTypeHash": 815443803,
+        "packedDna": "{\"bDnaAsset\":{\"instanceID\":31524},\"bDnaAssetName\":\"HumanMaleDynamicDnaAsset\",\"bDnaSettings\":[{\"name\":\"skinGreenness\",\"value\":128},{\"name\":\"skinBlueness\",\"value\":128},{\"name\":\"skinRedness\",\"value\":128},{\"name\":\"height\",\"value\":128},{\"name\":\"headSize\",\"value\":128},{\"name\":\"headWidth\",\"value\":128},{\"name\":\"neckThickness\",\"value\":41},{\"name\":\"armLength\",\"value\":128},{\"name\":\"forearmLength\",\"value\":128},{\"name\":\"armWidth\",\"value\":41},{\"name\":\"forearmWidth\",\"value\":41},{\"name\":\"handsSize\",\"value\":128},{\"name\":\"feetSize\",\"value\":128},{\"name\":\"legSeparation\",\"value\":128},{\"name\":\"upperMuscle\",\"value\":0},{\"name\":\"lowerMuscle\",\"value\":0},{\"name\":\"upperWeight\",\"value\":41},{\"name\":\"lowerWeight\",\"value\":41},{\"name\":\"legsSize\",\"value\":128},{\"name\":\"belly\",\"value\":41},{\"name\":\"waist\",\"value\":41},{\"name\":\"gluteusSize\",\"value\":41},{\"name\":\"earsSize\",\"value\":128},{\"name\":\"earsPosition\",\"value\":128},{\"name\":\"earsRotation\",\"value\":128},{\"name\":\"noseSize\",\"value\":128},{\"name\":\"noseCurve\",\"value\":128},{\"name\":\"noseWidth\",\"value\":128},{\"name\":\"noseInclination\",\"value\":128},{\"name\":\"nosePosition\",\"value\":128},{\"name\":\"nosePronounced\",\"value\":128},{\"name\":\"noseFlatten\",\"value\":128},{\"name\":\"chinSize\",\"value\":128},{\"name\":\"chinPronounced\",\"value\":128},{\"name\":\"chinPosition\",\"value\":128},{\"name\":\"mandibleSize\",\"value\":128},{\"name\":\"jawsSize\",\"value\":128},{\"name\":\"jawsPosition\",\"value\":128},{\"name\":\"cheekSize\",\"value\":128},{\"name\":\"cheekPosition\",\"value\":128},{\"name\":\"lowCheekPronounced\",\"value\":128},{\"name\":\"lowCheekPosition\",\"value\":128},{\"name\":\"foreheadSize\",\"value\":128},{\"name\":\"foreheadPosition\",\"value\":128},{\"name\":\"lipsSize\",\"value\":128},{\"name\":\"mouthSize\",\"value\":128},{\"name\":\"eyeRotation\",\"value\":128},{\"name\":\"eyeSize\",\"value\":128},{\"name\":\"breastSize\",\"value\":41},{\"name\":\"eyeSpacing\",\"value\":128}]}"
+    }],
+    "characterColors": [{
+            "name": "Skin",
+            "colors": [
+                207, 178, 162, 255, 0, 0, 0, 0, 255, 255, 255, 255, 0, 0, 0, 0, 255,
+                255, 255, 255, 0, 0, 0, 0
+            ],
+            "ShaderParms": [],
+            "alwaysUpdate": false
+        },
+        {
+            "name": "Hair",
+            "colors": [
+                255, 150, 75, 255, 0, 0, 0, 0, 255, 255, 255, 255, 0, 0, 0, 0, 255, 255,
+                255, 255, 0, 0, 0, 0
+            ],
+            "ShaderParms": [],
+            "alwaysUpdate": false
+        },
+        {
+            "name": "Eyes",
+            "colors": [
+                100, 255, 75, 255, 0, 0, 0, 0, 255, 255, 255, 255, 0, 0, 0, 0, 255, 255,
+                255, 255, 0, 0, 0, 0
+            ],
+            "ShaderParms": [],
+            "alwaysUpdate": false
+        },
+        {
+            "name": "Undies",
+            "colors": [
+                255, 255, 255, 255, 0, 0, 0, 0, 255, 255, 255, 255, 0, 0, 0, 0, 255,
+                255, 255, 255, 0, 0, 0, 0
+            ],
+            "ShaderParms": [],
+            "alwaysUpdate": false
+        },
+        {
+            "name": "Hat",
+            "colors": [
+                252, 166, 153, 255, 0, 0, 0, 0, 255, 255, 255, 255, 0, 0, 0, 0, 255,
+                255, 255, 255, 0, 0, 0, 0
+            ],
+            "ShaderParms": [],
+            "alwaysUpdate": false
+        },
+        {
+            "name": "Shirt",
+            "colors": [
+                100, 255, 75, 255, 0, 0, 0, 0, 255, 255, 255, 255, 0, 0, 0, 0, 255, 255,
+                255, 255, 0, 0, 0, 0
+            ],
+            "ShaderParms": [],
+            "alwaysUpdate": false
+        },
+        {
+            "name": "Leather",
+            "colors": [
+                56, 30, 8, 255, 0, 0, 0, 0, 255, 255, 255, 255, 0, 0, 0, 0, 255, 255,
+                255, 255, 0, 0, 0, 0
+            ],
+            "ShaderParms": [],
+            "alwaysUpdate": false
+        },
+        {
+            "name": "Metal",
+            "colors": [
+                238, 238, 238, 255, 0, 0, 0, 0, 255, 255, 255, 255, 0, 0, 0, 0, 255,
+                255, 255, 255, 255, 255, 255, 133
+            ],
+            "ShaderParms": [],
+            "alwaysUpdate": false
+        },
+        {
+            "name": "Pants",
+            "colors": [
+                155, 75, 210, 255, 0, 0, 0, 0, 255, 255, 255, 255, 0, 0, 0, 0, 255, 255,
+                255, 255, 0, 0, 0, 0
+            ],
+            "ShaderParms": [],
+            "alwaysUpdate": false
+        },
+        {
+            "name": "Shoes",
+            "colors": [
+                0, 200, 255, 255, 0, 0, 0, 0, 255, 255, 255, 255, 0, 0, 0, 0, 255, 255,
+                255, 255, 0, 0, 0, 0
+            ],
+            "ShaderParms": [],
+            "alwaysUpdate": false
+        }
+    ],
+    "wardrobeSet": [{
+            "slot": "Underwear",
+            "recipe": "MaleUnderwear"
+        },
+        {
+            "slot": "Eyebrows",
+            "recipe": "Male_Eyebrow_HR2"
+        },
+        {
+            "slot": "Hair",
+            "recipe": "Male_Hair_Short"
+        },
+        {
+            "slot": "Beard",
+            "recipe": "Male_Beard1"
+        },
+        {
+            "slot": "Helmet",
+            "recipe": "MaleHat04"
+        },
+        {
+            "slot": "Hands",
+            "recipe": "MaleChallengerGloves"
+        },
+        {
+            "slot": "Legs",
+            "recipe": "MaleSweatPants"
+        },
+        {
+            "slot": "Feet",
+            "recipe": "TallShoes_Black_Recipe"
+        },
+        {
+            "slot": "Complexion",
+            "recipe": "MaleSmoothSkin"
+        },
+        {
+            "slot": "Chest",
+            "recipe": "MaleHoodie"
+        }
+    ],
+    "raceAnimatorController": "Locomotion with Head"
+}

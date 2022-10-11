@@ -1,0 +1,42 @@
+@import url("https://fonts.googleapis.com/css2?family=Arimo:wght@700&display=swap");
+body,
+html {
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    margin: 0px;
+    padding: 0px;
+    font-family: "Arimo", serif;
+    text-align: center;
+    vertical-align: middle;
+}
+
+body {
+    background-image: url("../public/Images/backgroundPoker.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-color: dodgerblue;
+    height: 100%;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+}
+
+.main {
+    position: absolute;
+    width: 50%;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: #343a40;
+    margin: auto;
+    text-align: center;
+}
+
+@media only screen and (max-width: 768px) {
+    .main {
+        width: 100%;
+    }
+}
